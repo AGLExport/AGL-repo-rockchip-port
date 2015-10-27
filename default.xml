@@ -3,7 +3,12 @@
 
   <remote name="agl"
           fetch="https://gerrit.automotivelinux.org/gerrit/"
-          review="ssh://gerrit.automotivelinux.org:29418/" />
+  />
+          <!-- repo upload currently unsuported -->
+          <!-- review supports only http/https as upload urls, not ssh -->
+          <!-- so until this is has been fixed, this is inactive -->
+          <!-- review="ssh://gerrit.automotivelinux.org:29418/"-->
+
   <remote name="poky"
           fetch="git://git.yoctoproject.org/" />
   <remote name="openembedded"
