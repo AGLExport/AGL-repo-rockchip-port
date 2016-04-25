@@ -48,4 +48,7 @@
   <!-- iotivity -->
   <project name="meta-oic" path="meta-oic" remote="yocto" revision="1.0.1" />
 
+  <!-- DragonBoard 410c specific things -->
+  <project name="meta-qcom" path="meta-qcom" remote="yocto" revision="jethro" />
+
 </manifest>
