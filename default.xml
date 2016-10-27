@@ -3,7 +3,8 @@
 
   <remote name="agl"
          fetch="https://gerrit.automotivelinux.org/gerrit/"
-        review="https://gerrit.automotivelinux.org/gerrit/"
+         review="https://gerrit.automotivelinux.org/gerrit/"
+         pushurl="ssh://gerritAGL"
   />
 
   <remote name="yocto"
