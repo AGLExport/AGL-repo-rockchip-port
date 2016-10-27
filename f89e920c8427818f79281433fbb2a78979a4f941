@@ -1,0 +1,8 @@
+Code-Review+1: José Bollo <jobol@nonadev.net>
+Verified+1: Jenkins Job builder account <agl-jobbuilder@automotivelinux.org>
+Code-Review+2: Jan-Simon Moeller <jsmoeller@linuxfoundation.org>
+Submitted-by: Jan-Simon Moeller <jsmoeller@linuxfoundation.org>
+Submitted-at: Thu, 27 Oct 2016 17:28:09 +0000
+Reviewed-on: https://gerrit.automotivelinux.org/gerrit/6915
+Project: AGL/AGL-repo
+Branch: refs/heads/master
