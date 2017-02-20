@@ -18,9 +18,7 @@
   <!-- meta-qt5  -->
   <remote name="qt.io" fetch="git://code.qt.io/" />
 
-  <!-- 01.org (Intel) -->
-  <remote name="01org" fetch="https://github.com/01org/" />
-
+  <!-- fsl/nxp --> <!-- likely broken -->
   <remote fetch="git://git.freescale.com/imx" name="fsl-release" />
 
   <default revision="master"
@@ -75,10 +73,14 @@
   <!-- DragonBoard 410c specific things -->
   <project name="meta-qcom" path="meta-qcom" remote="yocto" revision="morty" />
 
+  <!-- Altera SOCFPGA platform --> <!-- pinned to version from master until branch for morty exists -->
+  <!-- https://github.com/kraj/meta-altera -->
+  <project name="kraj/meta-altera" path="meta-altera" remote="github" revision="4364dbfcb600da82ecdfc4797f112d187e40f1c3" /> 
+
   <!-- Image Security Analysis FrameWork (isafw) -->
-  <project name="meta-security-isafw" path="meta-security-isafw" remote="01org" revision="master" />
+  <project name="01org/meta-security-isafw" path="meta-security-isafw" remote="github" revision="master" />
 
   <!-- IoT Security layer -->
-  <project name="meta-intel-iot-security" path="meta-intel-iot-security" remote="01org" revision="20bbb97f6d5400b126ae96ef446c3e60c7e16285" />
+  <project name="01org/meta-intel-iot-security" path="meta-intel-iot-security" remote="github" revision="20bbb97f6d5400b126ae96ef446c3e60c7e16285" />
 
 </manifest>
