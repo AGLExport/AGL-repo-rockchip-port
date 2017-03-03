@@ -11,6 +11,8 @@
           fetch="git://git.yoctoproject.org/" />
   <remote name="openembedded"
           fetch="git://git.openembedded.org/" />
+  <remote name="linaro"
+          fetch="git://git.linaro.org/" />
 
   <!-- meta-rust --> <!-- freescale bsp --> <!-- 01.org -->
   <remote name="github" fetch="https://github.com/" />
@@ -26,9 +28,9 @@
            sync-j="4" />
 
   <!-- AGL things. -->
-  <project name="AGL/meta-agl" path="meta-agl" />
+  <project name="AGL/meta-agl" path="meta-agl"  revision="sandbox/ronan/sandbox_rcargen3_v2.16.0" />
   <project name="AGL/meta-agl-extra" path="meta-agl-extra" />
-  <project name="AGL/meta-agl-demo" path="meta-agl-demo" />
+  <project name="AGL/meta-agl-demo" path="meta-agl-demo" revision="sandbox/ronan/sandbox_rcargen3_v2.16.0" />
   <project name="AGL/meta-agl-devel" path="meta-agl-devel" />
 
   <!-- Yocto/OpenEmbedded things. -->
@@ -42,10 +44,13 @@
   <!--<project name="yocto/meta-qt5" path="meta-qt5" remote="qt.io" revision="5.8" />-->
 
   <!-- Porter specific things. -->
-  <project name="AGL/meta-renesas" path="meta-renesas" />
+  <project name="AGL/meta-renesas" path="meta-renesas"  revision="sandbox/ronan/sandbox_rcargen3_v2.16.0" />
 
   <!-- Renesas Gen3 specific things -->
-  <project name="CogentEmbedded/meta-rcar" path="meta-rcar" remote="github" revision="v2.12.0" />
+  <project name="AGL/meta-renesas-rcar-gen3" path="meta-renesas-rcar-gen3" revision="morty" />
+
+  <!-- meta-linaro -->
+  <project name="openembedded/meta-linaro" path="meta-linaro" remote="linaro" revision="morty" />
 
   <!-- MinnowBoard MAX specific things -->
   <project name="meta-intel" path="meta-intel" remote="yocto" revision="morty" />
