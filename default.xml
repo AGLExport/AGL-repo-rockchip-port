@@ -26,8 +26,8 @@
            sync-j="4" />
 
   <!-- AGL things. -->
-  <project name="AGL/meta-agl" path="meta-agl" />
-  <project name="AGL/meta-agl-demo" path="meta-agl-demo" />
+  <project name="AGL/meta-agl" path="meta-agl" revision="sandbox/locust2001/pyro"/>
+  <project name="AGL/meta-agl-demo" path="meta-agl-demo" revision="sandbox/locust2001/pyro" />
   <project name="AGL/meta-agl-devel" path="meta-agl-devel" />
   <project name="AGL/meta-agl-extra" path="meta-agl-extra" />
 
@@ -35,8 +35,8 @@
   <project name="advancedtelematic/meta-updater" path="meta-updater" remote="github" revision="8379268522e453923514cc74ef37b9585ab4bde7"/>
 
   <!-- Yocto/OpenEmbedded things. -->
-  <project name="poky" path="poky" remote="yocto" revision="morty" />
-  <project name="meta-openembedded" path="meta-openembedded" remote="openembedded" revision="morty" />
+  <project name="poky" path="poky" remote="yocto" revision="pyro" />
+  <project name="meta-openembedded" path="meta-openembedded" remote="openembedded" revision="pyro" />
 
   <!-- Qt things -->
   <!-- Qt 5.8 -->
@@ -52,7 +52,7 @@
   <project name="AGL/meta-renesas-rcar-gen3" path="meta-renesas-rcar-gen3" revision="morty_bsp_2.19" />
 
   <!-- MinnowBoard MAX specific things -->
-  <project name="meta-intel" path="meta-intel" remote="yocto" revision="morty" />
+  <project name="meta-intel" path="meta-intel" remote="yocto" revision="pyro" />
 
   <!-- i.MX6 / e.g. wandboard specific things -->
   <project name="meta-fsl-arm" path="meta-fsl-arm" remote="yocto" revision="krogoth" />  <!-- no morty branch, krogoth branch active -->
