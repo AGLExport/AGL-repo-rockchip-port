@@ -26,7 +26,7 @@
            sync-j="4" />
 
   <!-- AGL things. -->
-  <project name="AGL/meta-agl" path="meta-agl" />
+  <project name="AGL/meta-agl" path="meta-agl" revision="sandbox/locust2001/pyro"/>
   <project name="AGL/meta-agl-demo" path="meta-agl-demo" />
   <project name="AGL/meta-agl-devel" path="meta-agl-devel" />
   <project name="AGL/meta-agl-extra" path="meta-agl-extra" />
@@ -35,8 +35,8 @@
   <project name="advancedtelematic/meta-updater" path="meta-updater" remote="github" revision="8379268522e453923514cc74ef37b9585ab4bde7"/>
 
   <!-- Yocto/OpenEmbedded things. -->
-  <project name="poky" path="poky" remote="yocto" revision="morty" />
-  <project name="meta-openembedded" path="meta-openembedded" remote="openembedded" revision="morty" />
+  <project name="poky" path="poky" remote="yocto" revision="pyro" />
+  <project name="meta-openembedded" path="meta-openembedded" remote="openembedded" revision="pyro" />
 
   <!-- Qt things -->
   <!-- Qt 5.8 -->
