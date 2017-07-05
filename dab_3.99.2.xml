@@ -15,7 +15,7 @@
   <project name="AGL/meta-agl-devel" path="meta-agl-devel"/>
   <project name="AGL/meta-agl-extra" path="meta-agl-extra"/>
   <project name="AGL/meta-renesas" path="meta-renesas"/>
-  <project name="AGL/meta-renesas-rcar-gen3" path="meta-renesas-rcar-gen3" revision="4fa88fc2e452dd1ca5992cb605b3cd1823ee5316" upstream="morty_bsp_2.19"/>
+  <project name="AGL/meta-renesas-rcar-gen3" path="meta-renesas-rcar-gen3" revision="master"/>
   <project name="Freescale/meta-freescale" path="meta-freescale" remote="github" revision="fa774ad7fb797957601a8c9fee45af453fea34b7" upstream="morty"/>
   <project name="Freescale/meta-freescale-3rdparty" path="meta-freescale-3rdparty" remote="github" revision="1879485e63ce369292c89b5902ff6df13509090b" upstream="morty"/>
   <project name="Freescale/meta-freescale-distro" path="meta-freescale-distro" remote="github" revision="cd5c7a2539f40004f74126e9fdf08254fd9a6390" upstream="morty"/>
