@@ -1,0 +1,10 @@
+Verified+1: Jenkins Job builder account <agl-jobbuilder@automotivelinux.org>
+ci-image-build+1: Jenkins Job builder account <agl-jobbuilder@automotivelinux.org>
+Code-Review+1: Jeremiah Foster <jeremiah.foster@pelagicore.com>
+Code-Review+1: Changhyeok Bae <changhyeok.bae@gmail.com>
+Code-Review+2: Walt Miner <walt@linux.com>
+Submitted-by: Jan-Simon Moeller <jsmoeller@linuxfoundation.org>
+Submitted-at: Fri, 04 Aug 2017 14:40:39 +0000
+Reviewed-on: https://gerrit.automotivelinux.org/gerrit/10485
+Project: AGL/AGL-repo
+Branch: refs/heads/master
