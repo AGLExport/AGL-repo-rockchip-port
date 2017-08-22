@@ -1,0 +1,8 @@
+Verified+1: Jenkins Job builder account <agl-jobbuilder@automotivelinux.org>
+ci-image-build+1: Jenkins Job builder account <agl-jobbuilder@automotivelinux.org>
+Code-Review+2: Walt Miner <walt@linux.com>
+Submitted-by: Walt Miner <walt@linux.com>
+Submitted-at: Tue, 22 Aug 2017 21:01:25 +0000
+Reviewed-on: https://gerrit.automotivelinux.org/gerrit/10675
+Project: AGL/AGL-repo
+Branch: refs/heads/master
