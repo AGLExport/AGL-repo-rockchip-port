@@ -19,7 +19,7 @@
   <project name="Freescale/meta-freescale" path="meta-freescale" remote="github" revision="fa774ad7fb797957601a8c9fee45af453fea34b7" upstream="morty"/>
   <project name="Freescale/meta-freescale-3rdparty" path="meta-freescale-3rdparty" remote="github" revision="1879485e63ce369292c89b5902ff6df13509090b" upstream="morty"/>
   <project name="Freescale/meta-freescale-distro" path="meta-freescale-distro" remote="github" revision="cd5c7a2539f40004f74126e9fdf08254fd9a6390" upstream="morty"/>
-  <project name="advancedtelematic/meta-updater" path="meta-updater" remote="github" revision="e5a12d4a3f06e5b85a5c3a9d2f3d3960d661f935"/>
+  <project name="advancedtelematic/meta-updater" path="meta-updater" remote="github" revision="9cf14ec8d924a5f88a3441ee2896a04f74188024"/>
   <project name="boundarydevices/meta-boundary" path="meta-boundary" remote="github" revision="d44ee8f58d841cf13fbe63dab271344e2b9ba6db" upstream="morty"/>
   <project name="kraj/meta-altera" path="meta-altera" remote="github" revision="4364dbfcb600da82ecdfc4797f112d187e40f1c3"/>
   <project name="meta-intel" remote="yocto" revision="6add41510412ca196efb3e4f949d403a8b6f35d7" upstream="morty"/>
