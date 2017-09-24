@@ -1,0 +1,10 @@
+Code-Review+1: Thomas Rini <trini@konsulko.com>
+ci-image-build+1: Jenkins Job builder account <agl-jobbuilder@automotivelinux.org>
+Code-Review+2: Jan-Simon Moeller <jsmoeller@linuxfoundation.org>
+Verified+1: Jenkins Job builder account <agl-jobbuilder@automotivelinux.org>
+ci-image-boot-test+1: Jenkins Job builder account <agl-jobbuilder@automotivelinux.org>
+Submitted-by: Jan-Simon Moeller <jsmoeller@linuxfoundation.org>
+Submitted-at: Sun, 24 Sep 2017 15:27:06 +0000
+Reviewed-on: https://gerrit.automotivelinux.org/gerrit/10961
+Project: AGL/AGL-repo
+Branch: refs/heads/dab
