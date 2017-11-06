@@ -1,0 +1,9 @@
+Code-Review+1: Thomas Rini <trini@konsulko.com>
+Code-Review+1: Stéphane Desneux <stephane.desneux@iot.bzh>
+Code-Review+2: Jan-Simon Moeller <jsmoeller@linuxfoundation.org>
+Verified+1: Jan-Simon Moeller <jsmoeller@linuxfoundation.org>
+Submitted-by: Jan-Simon Moeller <jsmoeller@linuxfoundation.org>
+Submitted-at: Mon, 06 Nov 2017 23:19:41 +0000
+Reviewed-on: https://gerrit.automotivelinux.org/gerrit/11719
+Project: AGL/AGL-repo
+Branch: refs/heads/master
