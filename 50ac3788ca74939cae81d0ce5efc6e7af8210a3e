@@ -1,0 +1,8 @@
+Code-Review+1: Stéphane Desneux <stephane.desneux@iot.bzh>
+Code-Review+2: Jan-Simon Moeller <jsmoeller@linuxfoundation.org>
+Verified+1: Jan-Simon Moeller <jsmoeller@linuxfoundation.org>
+Submitted-by: Jan-Simon Moeller <jsmoeller@linuxfoundation.org>
+Submitted-at: Fri, 22 Dec 2017 22:06:54 +0000
+Reviewed-on: https://gerrit.automotivelinux.org/gerrit/12935
+Project: AGL/AGL-repo
+Branch: refs/heads/eel
