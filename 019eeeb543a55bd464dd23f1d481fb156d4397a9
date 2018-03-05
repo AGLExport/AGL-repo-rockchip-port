@@ -1,0 +1,9 @@
+Code-Review+1: José Bollo <jose.bollo@iot.bzh>
+Code-Review+1: Matt Ranostay <matt.ranostay@konsulko.com>
+Code-Review+2: Jan-Simon Moeller <jsmoeller@linuxfoundation.org>
+Verified+1: Jan-Simon Moeller <jsmoeller@linuxfoundation.org>
+Submitted-by: Jan-Simon Moeller <jsmoeller@linuxfoundation.org>
+Submitted-at: Mon, 05 Mar 2018 19:33:56 +0000
+Reviewed-on: https://gerrit.automotivelinux.org/gerrit/13523
+Project: AGL/AGL-repo
+Branch: refs/heads/master
