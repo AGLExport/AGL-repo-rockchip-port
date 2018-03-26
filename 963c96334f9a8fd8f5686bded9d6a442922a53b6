@@ -1,0 +1,9 @@
+Code-Review+1: Harunobu Kurokawa <harunobu.kurokawa.dn@renesas.com>
+Verified+1: Jenkins Job builder account <agl-jobbuilder@automotivelinux.org>
+ci-image-build+1: Jenkins Job builder account <agl-jobbuilder@automotivelinux.org>
+Code-Review+2: Jan-Simon Moeller <jsmoeller@linuxfoundation.org>
+Submitted-by: Jan-Simon Moeller <jsmoeller@linuxfoundation.org>
+Submitted-at: Mon, 26 Mar 2018 23:53:48 +0000
+Reviewed-on: https://gerrit.automotivelinux.org/gerrit/13639
+Project: AGL/AGL-repo
+Branch: refs/heads/master
