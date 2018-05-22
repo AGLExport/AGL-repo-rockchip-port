@@ -1,0 +1,8 @@
+Code-Review+1: José Bollo <jose.bollo@iot.bzh>
+Code-Review+2: Jan-Simon Moeller <jsmoeller@linuxfoundation.org>
+Verified+1: Jan-Simon Moeller <jsmoeller@linuxfoundation.org>
+Submitted-by: Jan-Simon Moeller <jsmoeller@linuxfoundation.org>
+Submitted-at: Tue, 22 May 2018 12:51:02 +0000
+Reviewed-on: https://gerrit.automotivelinux.org/gerrit/14069
+Project: AGL/AGL-repo
+Branch: refs/heads/eel
