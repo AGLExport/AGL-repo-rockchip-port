@@ -1,0 +1,9 @@
+Verified+1: Jenkins Job builder account <agl-jobbuilder@automotivelinux.org>
+ci-image-build+1: Jenkins Job builder account <agl-jobbuilder@automotivelinux.org>
+ci-image-boot-test+1: Jenkins Job builder account <agl-jobbuilder@automotivelinux.org>
+Code-Review+2: Stéphane Desneux <stephane.desneux@iot.bzh>
+Submitted-by: Jan-Simon Moeller <jsmoeller@linuxfoundation.org>
+Submitted-at: Thu, 19 Jul 2018 09:41:28 +0000
+Reviewed-on: https://gerrit.automotivelinux.org/gerrit/15393
+Project: AGL/AGL-repo
+Branch: refs/heads/master
