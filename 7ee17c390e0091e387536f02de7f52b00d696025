@@ -1,0 +1,11 @@
+Code-Review+1: Scott Murray <scott.murray@konsulko.com>
+Verified+1: Jenkins Job builder account <agl-jobbuilder@automotivelinux.org>
+ci-image-build+1: Jenkins Job builder account <agl-jobbuilder@automotivelinux.org>
+ci-image-boot-test+1: Jenkins Job builder account <agl-jobbuilder@automotivelinux.org>
+Code-Review+1: Thomas Rini <trini@konsulko.com>
+Code-Review+2: Jan-Simon Moeller <jsmoeller@linuxfoundation.org>
+Submitted-by: Jan-Simon Moeller <jsmoeller@linuxfoundation.org>
+Submitted-at: Tue, 21 Aug 2018 08:06:36 +0000
+Reviewed-on: https://gerrit.automotivelinux.org/gerrit/16143
+Project: AGL/AGL-repo
+Branch: refs/heads/master
