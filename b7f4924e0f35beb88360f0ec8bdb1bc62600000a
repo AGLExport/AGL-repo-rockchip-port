@@ -1,0 +1,10 @@
+Code-Review+1: Thomas Rini <trini@konsulko.com>
+Verified+1: Jenkins Job builder account <agl-jobbuilder@automotivelinux.org>
+ci-image-build+1: Jenkins Job builder account <agl-jobbuilder@automotivelinux.org>
+ci-image-boot-test+1: Jenkins Job builder account <agl-jobbuilder@automotivelinux.org>
+Code-Review+2: Jan-Simon Moeller <jsmoeller@linuxfoundation.org>
+Submitted-by: Jan-Simon Moeller <jsmoeller@linuxfoundation.org>
+Submitted-at: Mon, 08 Oct 2018 14:49:48 +0000
+Reviewed-on: https://gerrit.automotivelinux.org/gerrit/16881
+Project: AGL/AGL-repo
+Branch: refs/heads/eel
