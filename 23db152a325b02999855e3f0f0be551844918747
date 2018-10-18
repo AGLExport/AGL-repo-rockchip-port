@@ -1,0 +1,9 @@
+Code-Review+1: Thomas Rini <trini@konsulko.com>
+Code-Review+2: Scott Murray <scott.murray@konsulko.com>
+Verified+1: Jan-Simon Moeller <jsmoeller@linuxfoundation.org>
+Code-Review+2: Jan-Simon Moeller <jsmoeller@linuxfoundation.org>
+Submitted-by: Jan-Simon Moeller <jsmoeller@linuxfoundation.org>
+Submitted-at: Thu, 18 Oct 2018 07:05:32 +0000
+Reviewed-on: https://gerrit.automotivelinux.org/gerrit/16879
+Project: AGL/AGL-repo
+Branch: refs/heads/dab
