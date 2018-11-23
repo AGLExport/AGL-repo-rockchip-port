@@ -19,7 +19,8 @@
   <project name="Freescale/meta-freescale" path="meta-freescale" remote="github" revision="06178400afbd641a6709473fd21d893dcd3cfbfa" upstream="pyro"/>
   <project name="Freescale/meta-freescale-3rdparty" path="meta-freescale-3rdparty" remote="github" revision="35badbde05d4f10d4faeefc30bc126b5bd228e2e" upstream="pyro"/>
   <project name="Freescale/meta-freescale-distro" path="meta-freescale-distro" remote="github" revision="cd5c7a2539f40004f74126e9fdf08254fd9a6390" upstream="pyro"/>
-  <project name="advancedtelematic/meta-updater" path="meta-updater" remote="github" revision="090141edfc5883a2fe0ed1faece3ee2da957d115" upstream="pyro"/>
+  <project name="advancedtelematic/meta-updater" path="meta-updater" remote="github" revision="eece3ab3b0deb2cfd8406da7843828473e7d1c35" upstream="pyro"/>
+  <project name="advancedtelematic/meta-updater-qemux86-64" path="meta-updater-qemux86-64" remote="github" revision="035a7fc1fbc6b516b61af66a10e62b1b8fde6d86" upstream="pyro"/>
   <project name="boundarydevices/meta-boundary" path="meta-boundary" remote="github" revision="fb9bd92e4173ded438cd05f4c5c7f7d028d29cc7" upstream="pyro"/>
   <project name="kraj/meta-altera" path="meta-altera" remote="github" revision="d4bbb7ef016eab4ab04c3e794dfe6f4276196c66" upstream="master"/>
   <project name="meta-intel" remote="yocto" revision="4cd63f57820ce0e4ebd598251d3a13b5a4b9b791" upstream="pyro"/>
