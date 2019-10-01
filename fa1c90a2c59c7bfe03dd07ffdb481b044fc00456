@@ -1,0 +1,8 @@
+Verified+1: Jenkins Job builder account <agl-jobbuilder@automotivelinux.org>
+Code-Review+1: Matt Ranostay <matt.ranostay@konsulko.com>
+Code-Review+2: Jan-Simon Moeller <jsmoeller@linuxfoundation.org>
+Submitted-by: Jan-Simon Moeller <jsmoeller@linuxfoundation.org>
+Submitted-at: Tue, 01 Oct 2019 06:04:55 +0000
+Reviewed-on: https://gerrit.automotivelinux.org/gerrit/c/AGL/AGL-repo/+/22535
+Project: AGL/AGL-repo
+Branch: refs/heads/master
