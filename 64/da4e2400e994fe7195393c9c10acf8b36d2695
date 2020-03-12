@@ -1,0 +1,10 @@
+Code-Review+1: José Bollo <jose.bollo@iot.bzh>
+Code-Review+1: Matt Ranostay <matt.ranostay@konsulko.com>
+Code-Review+2: Jan-Simon Moeller <jsmoeller@linuxfoundation.org>
+ci-image-build+1: Jenkins Job builder account <agl-jobbuilder@automotivelinux.org>
+Verified+1: Jan-Simon Moeller <jsmoeller@linuxfoundation.org>
+Submitted-by: Jan-Simon Moeller <jsmoeller@linuxfoundation.org>
+Submitted-at: Thu, 12 Mar 2020 11:01:29 +0000
+Reviewed-on: https://gerrit.automotivelinux.org/gerrit/c/AGL/AGL-repo/+/24040
+Project: AGL/AGL-repo
+Branch: refs/heads/halibut
