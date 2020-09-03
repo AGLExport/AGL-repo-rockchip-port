@@ -2,8 +2,9 @@
 <manifest>
 
   <!-- remote servers to query -->
+    <!-- fetch="https://gerrit.automotivelinux.org/gerrit/" -->
   <remote name="agl"
-         fetch="https://gerrit.automotivelinux.org/gerrit/"
+         fetch="https://git.automotivelinux.org/"
          review="https://gerrit.automotivelinux.org/gerrit/"
          pushurl="ssh://gerrit.automotivelinux.org:29418"
   />
