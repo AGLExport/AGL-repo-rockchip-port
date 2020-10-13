@@ -46,9 +46,9 @@
   <project name="meta-qt5/meta-qt5" path="external/meta-qt5" remote="github" revision="0e7015f7a86dda995a39662edbb5c26da647c496" upstream="dunfell"/>
 
   <!-- Updater layers. --> 
-  <project name="advancedtelematic/meta-updater" path="external/meta-updater" remote="github" revision="f4d70dae398a0b497e6c90c47b52439b43698d30" upstream="dunfell"/>
+  <project name="advancedtelematic/meta-updater" path="external/meta-updater" remote="github" revision="e2d4fb09d11cbce98e0ef567229c94169a8c31b1" upstream="dunfell"/>
   <project name="advancedtelematic/meta-updater-qemux86-64" path="external/meta-updater-qemux86-64" remote="github" revision="71e2e2426b09e5aed6eabed72c8d289c0343c2de" upstream="dunfell"/>
-  <project name="advancedtelematic/meta-updater-raspberrypi" path="external/meta-updater-raspberrypi" remote="github" revision="a38bc75c85d8b7bcdff510ce2c66e1446d1ded8a" upstream="dunfell"/>
+  <project name="advancedtelematic/meta-updater-raspberrypi" path="external/meta-updater-raspberrypi" remote="github" revision="3e4795b85861e63c54f6f7c573f8bd13b3024072" upstream="dunfell"/>
 
   <!-- Security layer -->
   <project name="meta-security" path="external/meta-security" remote="yocto" revision="982a29bbb7ef32475aea7c4bb56c620065a50927" upstream="dunfell"/>
