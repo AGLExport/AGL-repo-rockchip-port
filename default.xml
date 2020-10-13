@@ -90,7 +90,7 @@
 
   <!-- Altera SOCFPGA platform -->
   <!-- https://github.com/kraj/meta-altera -->
-  <project name="kraj/meta-altera" path="bsp/meta-altera" remote="github" revision="1db773d79403c4439103f3fba51b6c42d5f7b266" upstream="master"/>
+  <project name="kraj/meta-altera" path="bsp/meta-altera" remote="github" revision="aa24dfcb39fce3619a87ee6eef6e4296e66d2099" upstream="master"/>
 
   <!-- Sancloud BSP layers -->
   <project name="SanCloudLtd/meta-sancloud" path="bsp/meta-sancloud" remote="github" revision="58ad2300f74acc92afa21eaeaef7fd47fcc2a61c" upstream="dunfell"/>
