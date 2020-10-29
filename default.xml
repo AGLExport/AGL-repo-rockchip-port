@@ -75,7 +75,7 @@
 
   <!-- Renesas Gen3 specific things -->
   <project name="renesas-rcar/meta-renesas" path="bsp/meta-renesas" remote="github" revision="072c0f8648a3e19ff145508d8d431308363a699c" upstream="dunfell-dev"/>
-  <project name="CogentEmbedded/meta-rcar" path="bsp/meta-rcar" remote="github" revision="6ec2a2272747be7a221490c02d1fb42d20329fc4" upstream="v4.1.0"/>
+  <project name="CogentEmbedded/meta-rcar" path="bsp/meta-rcar" remote="github" revision="e2b1e021139b64d76531626dd47d1796a265a1fc" upstream="v4.1.0"/>
 
   <!-- consolidate on meta-freescale from git.yoctoproject.org -->
   <project name="meta-freescale" path="bsp/meta-freescale" remote="yocto" revision="6bc3d8825c20d21528e24a7237ff7392e01a81bd" upstream="dunfell"/>
