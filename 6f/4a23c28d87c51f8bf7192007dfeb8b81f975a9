@@ -1,0 +1,9 @@
+Verified+1: Jenkins Job builder account
+ci-image-build+1: Jenkins Job builder account
+ci-image-boot-test+1: Jenkins Job builder account
+Code-Review+2: Scott Murray <scott.murray@konsulko.com>
+Submitted-by: Scott Murray <scott.murray@konsulko.com>
+Submitted-at: Thu, 04 Feb 2021 15:52:03 +0000
+Reviewed-on: https://gerrit.automotivelinux.org/gerrit/c/AGL/AGL-repo/+/25979
+Project: AGL/AGL-repo
+Branch: refs/heads/master
