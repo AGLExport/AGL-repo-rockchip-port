@@ -1,0 +1,9 @@
+Verified+1: Jenkins Job builder account
+ci-image-build+1: Jenkins Job builder account
+ci-image-boot-test+1: Jenkins Job builder account
+Code-Review+2: Harunobu Kurokawa <harunobu.kurokawa.dn@renesas.com>
+Submitted-by: Harunobu Kurokawa <harunobu.kurokawa.dn@renesas.com>
+Submitted-at: Fri, 20 May 2022 11:29:23 +0000
+Reviewed-on: https://gerrit.automotivelinux.org/gerrit/c/AGL/AGL-repo/+/27487
+Project: AGL/AGL-repo
+Branch: refs/heads/master
