@@ -1,0 +1,8 @@
+Verified+1: Jenkins Job builder account
+ci-image-build+1: Jenkins Job builder account
+Code-Review+2: Jan-Simon Moeller <jsmoeller@linuxfoundation.org>
+Submitted-by: Jan-Simon Moeller <jsmoeller@linuxfoundation.org>
+Submitted-at: Tue, 28 Jun 2022 21:22:05 +0000
+Reviewed-on: https://gerrit.automotivelinux.org/gerrit/c/AGL/AGL-repo/+/27687
+Project: AGL/AGL-repo
+Branch: refs/heads/lamprey
