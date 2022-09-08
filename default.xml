@@ -61,7 +61,7 @@
 
   <!-- meta-flutter -->
   <project name="meta-flutter/meta-flutter" path="external/meta-flutter" remote="github" 
-revision="0655f2eb220d2a929157643f542f8f980986442c" upstream="kirkstone"/>
+revision="7702fabd669ad76e3393f1871bd0805080eb487e" upstream="kirkstone"/>
 
   <!-- BSPs -->
 
