@@ -1,0 +1,9 @@
+Verified+1: Jenkins Job builder account
+ci-image-build+1: Jenkins Job builder account
+ci-image-boot-test+1: Jenkins Job builder account
+Code-Review+2: Scott Murray <scott.murray@konsulko.com>
+Submitted-by: Scott Murray <scott.murray@konsulko.com>
+Submitted-at: Tue, 25 Oct 2022 17:25:32 +0000
+Reviewed-on: https://gerrit.automotivelinux.org/gerrit/c/AGL/AGL-repo/+/28077
+Project: AGL/AGL-repo
+Branch: refs/heads/needlefish
