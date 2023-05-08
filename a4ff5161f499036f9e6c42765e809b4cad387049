@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fdbee23d_c131a7d6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 597
+      },
+      "writtenOn": "2023-05-08T13:19:57Z",
+      "side": 1,
+      "message": "This should not be picked to Needlefish unless all of the other TI changes on master for meta-agl and meta-agl-demo get picked.  It\u0027s the update of the other BSPs that Denys submitted with the 4.0.9 that should get picked, I have just created 28840 with that.",
+      "revId": "a4ff5161f499036f9e6c42765e809b4cad387049",
+      "serverId": "2db66874-6d0c-4434-a3ad-56d904acc56e"
+    }
+  ]
+}
