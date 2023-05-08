@@ -1,0 +1,10 @@
+Verified+1: Jenkins Job builder account
+ci-image-build+1: Jenkins Job builder account
+Code-Review+2: Scott Murray <scott.murray@konsulko.com>
+Code-Review+2: Jan-Simon Moeller <jsmoeller@linuxfoundation.org>
+ci-image-boot-test+1: Jenkins Job builder account
+Submitted-by: Jan-Simon Moeller <jsmoeller@linuxfoundation.org>
+Submitted-at: Mon, 08 May 2023 20:17:02 +0000
+Reviewed-on: https://gerrit.automotivelinux.org/gerrit/c/AGL/AGL-repo/+/28775
+Project: AGL/AGL-repo
+Branch: refs/heads/octopus
