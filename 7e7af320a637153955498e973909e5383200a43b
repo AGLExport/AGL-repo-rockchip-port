@@ -137,6 +137,23 @@
       "message": "i could reproduce here \n",
       "revId": "7e7af320a637153955498e973909e5383200a43b",
       "serverId": "2db66874-6d0c-4434-a3ad-56d904acc56e"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "155a7b75_1cd931fb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2023-05-31T20:43:00Z",
+      "side": 1,
+      "message": " | /home/dl9pf/yocto/build-lamprey-uprev-qemu-most-fail/tmp/work/qemuarm-agl-linux-gnueabi/most/0.1-r0/git/driver/hdm-dim2/dim2_hdm.c:58:54: error: expected \u0027)\u0027 before numeric constant\n|    58 | static DECLARE_TASKLET(dim2_tasklet, dim2_tasklet_fn, 0);\n|       |                                                      ^~\n|       |                                                      )\n| /home/dl9pf/yocto/build-lamprey-uprev-qemu-most-fail/tmp/work/qemuarm-agl-linux-gnueabi/most/0.1-r0/git/driver/hdm-dim2/dim2_hdm.c: In function \u0027dim2_ahb_isr\u0027:\n| /home/dl9pf/yocto/build-lamprey-uprev-qemu-most-fail/tmp/work/qemuarm-agl-linux-gnueabi/most/0.1-r0/git/driver/hdm-dim2/dim2_hdm.c:425:2: error: \u0027dim2_tasklet\u0027 undeclared (first use in this function); did you mean \u0027dim2_tasklet_fn\u0027?\n|   425 |  dim2_tasklet.data \u003d (unsigned long)dev;\n|       |  ^~~~~~~~~~~~\n|       |  dim2_tasklet_fn\n| /home/dl9pf/yocto/build-lamprey-uprev-qemu-most-fail/tmp/work/qemuarm-agl-linux-gnueabi/most/0.1-r0/git/driver/hdm-dim2/dim2_hdm.c:425:2: note: each undeclared identifier is reported only once for each function it appears in\n| /home/dl9pf/yocto/build-lamprey-uprev-qemu-most-fail/tmp/work/qemuarm-agl-linux-gnueabi/most/0.1-r0/git/driver/hdm-dim2/dim2_hdm.c: In function \u0027poison_channel\u0027:\n| /home/dl9pf/yocto/build-lamprey-uprev-qemu-most-fail/tmp/work/qemuarm-agl-linux-gnueabi/most/0.1-r0/git/driver/hdm-dim2/dim2_hdm.c:673:19: error: \u0027dim2_tasklet\u0027 undeclared (first use in this function); did you mean \u0027dim2_tasklet_fn\u0027?\n|   673 |  tasklet_disable(\u0026dim2_tasklet);\n|       |                   ^~~~~~~~~~~~\n|       |                   dim2_tasklet_fn\n| At top level:\n| /home/dl9pf/yocto/build-lamprey-uprev-qemu-most-fail/tmp/work/qemuarm-agl-linux-gnueabi/most/0.1-r0/git/driver/hdm-dim2/dim2_hdm.c:387:13: warning: \u0027dim2_tasklet_fn\u0027 defined but not used [-Wunused-function]\n|   387 | static void dim2_tasklet_fn(unsigned long data)\n|       |             ^~~~~~~~~~~~~~~\n| make[3]: *** [/home/dl9pf/yocto/build-lamprey-uprev-qemu-most-fail/tmp/work-shared/qemuarm/kernel-source/scripts/Makefile.build:262: /home/dl9pf/yocto/build-lamprey-uprev-qemu-most-fail/tmp/work/qemuarm-agl-linux-gnueabi/most/0.1-r0/git/driver/hdm-dim2/dim2_hdm.o] Error 1\n| make[3]: *** Waiting for unfinished jobs....\n| make[2]: *** [/home/dl9pf/yocto/build-lamprey-uprev-qemu-most-fail/tmp/work-shared/qemuarm/kernel-source/Makefile:1746: /home/dl9pf/yocto/build-lamprey-uprev-qemu-most-fail/tmp/work/qemuarm-agl-linux-gnueabi/most/0.1-r0/git/driver] Error 2\n| make[2]: Leaving directory \u0027/home/dl9pf/yocto/build-lamprey-uprev-qemu-most-fail/tmp/work-shared/qemuarm/kernel-build-artifacts\u0027\n| make[1]: *** [Makefile:186: sub-make] Error 2\n| make[1]: Leaving directory \u0027/home/dl9pf/yocto/build-lamprey-uprev-qemu-most-fail/tmp/work-shared/qemuarm/kernel-source\u0027\n| make: *** [Makefile:53: all] Error 2\n| ERROR: oe_runmake failed\n| WARNING: /home/dl9pf/yocto/build-lamprey-uprev-qemu-most-fail/tmp/work/qemuarm-agl-linux-gnueabi/most/0.1-r0/temp/run.do_compile.71359:1 exit 1 from \u0027exit 1\u0027\n| ERROR: Execution of \u0027/home/dl9pf/yocto/build-lamprey-uprev-qemu-most-fail/tmp/work/qemuarm-agl-linux-gnueabi/most/0.1-r0/temp/run.do_compile.71359\u0027 failed with exit code 1\nERROR: Task (/home/dl9pf/AGL/lamprey/meta-agl-demo/recipes-kernel/most/most.bb:do_compile) failed with exit code \u00271\u0027\nNOTE: Tasks Summary: Attempted 767 tasks of which 629 didn\u0027t need to be rerun and 1 failed.\n",
+      "revId": "7e7af320a637153955498e973909e5383200a43b",
+      "serverId": "2db66874-6d0c-4434-a3ad-56d904acc56e"
     }
   ]
 }
