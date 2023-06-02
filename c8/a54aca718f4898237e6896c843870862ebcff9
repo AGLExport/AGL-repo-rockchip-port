@@ -1,0 +1,11 @@
+Code-Review+2: Jan-Simon Moeller <jsmoeller@linuxfoundation.org>
+Code-Review+1: Scott Murray <scott.murray@konsulko.com>
+Code-Review+1: Paul Barker <paul.barker@sancloud.com>
+Verified+1: Jenkins Job builder account
+ci-image-build+1: Jenkins Job builder account
+ci-image-boot-test+1: Jenkins Job builder account
+Submitted-by: Jan-Simon Moeller <jsmoeller@linuxfoundation.org>
+Submitted-at: Fri, 02 Jun 2023 09:06:27 +0000
+Reviewed-on: https://gerrit.automotivelinux.org/gerrit/c/AGL/AGL-repo/+/28949
+Project: AGL/AGL-repo
+Branch: refs/heads/octopus
