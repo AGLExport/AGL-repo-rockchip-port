@@ -33,6 +33,23 @@
       "message": "\u003e Patch Set 2: Verified-1\n\u003e \n\u003e CI-cycle failed. URL:\n\nrecheck",
       "revId": "3441c96f13acb8cd8b89679e841d4c0f11f4766a",
       "serverId": "2db66874-6d0c-4434-a3ad-56d904acc56e"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "10ca627e_abd53006",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2023-06-02T09:01:47Z",
+      "side": 1,
+      "message": "Build-tested locally. Merging as per IVI call discussion.",
+      "revId": "3441c96f13acb8cd8b89679e841d4c0f11f4766a",
+      "serverId": "2db66874-6d0c-4434-a3ad-56d904acc56e"
     }
   ]
 }
