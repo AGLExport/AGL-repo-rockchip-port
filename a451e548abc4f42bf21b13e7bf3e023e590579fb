@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "558881d0_ec5832c5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 597
+      },
+      "writtenOn": "2023-06-06T17:29:58Z",
+      "side": 1,
+      "message": "I\u0027d be okay with this going in, as I don\u0027t see any issues in my testing that weren\u0027t present from the last bump (i.e. SPEC-4820).  If there\u0027s a simple path to updating this to pick up a flutter-auto bump for SPEC-4820 and maybe a fix to remove the bashism in flutter-app.bbclass (discussed in SPEC-4819), then I\u0027d also be okay with a delay.",
+      "revId": "a451e548abc4f42bf21b13e7bf3e023e590579fb",
+      "serverId": "2db66874-6d0c-4434-a3ad-56d904acc56e"
+    }
+  ]
+}
