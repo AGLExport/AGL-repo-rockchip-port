@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3f2c9452_9c1399db",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2023-07-19T08:56:03Z",
+      "side": 1,
+      "message": "Reverting due to build issues reproduced on Debian bookworm (clang) and in CI icu/icu-native.",
+      "revId": "2fe3faa273f541bf4249905d96abc2acb4767af9",
+      "serverId": "2db66874-6d0c-4434-a3ad-56d904acc56e"
+    }
+  ]
+}
