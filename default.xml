@@ -65,12 +65,12 @@
   <!-- BSPs -->
 
   <!-- Renesas Gen3 specific things -->
-  <project name="renesas-rcar/meta-renesas" path="bsp/meta-renesas" remote="github" revision="0e6f9a1c74a71622161e4e145b43f9f9b4f6d39a" upstream="kirkstone-dev"/>
+  <project name="renesas-rcar/meta-renesas" path="bsp/meta-renesas" remote="github" revision="4debbfb9bcfd080e5689c1082550b13c0a50ed7a" upstream="kirkstone-dev"/>
   <project name="CogentEmbedded/meta-rcar" path="bsp/meta-rcar" remote="github" revision="511808a3e794ad0e35386f83d3d159c9ba48b4be" upstream="kirkstone-Yocto-v5.9.0"/>
   <project name="AGL/meta-agl-refhw" path="bsp/meta-agl-refhw" />
 
   <!-- consolidate on meta-freescale from git.yoctoproject.org -->
-  <project name="meta-freescale" path="bsp/meta-freescale" remote="yocto" revision="4ad7d2db225ef6338f4c2b7da3dbf46e7d77f2de" upstream="kirkstone"/>
+  <project name="meta-freescale" path="bsp/meta-freescale" remote="yocto" revision="3a5cd5971edb07f0a17486e48062a1cb2f8a230f" upstream="kirkstone"/>
   <project name="Freescale/meta-freescale-3rdparty" path="bsp/meta-freescale-3rdparty" remote="github" revision="bf12dc09d88a53d7345377de277fbcc20ed87235" upstream="kirkstone"/>
 
   <!-- TI Vayu / Jacinto 6 / DRA7 -->
