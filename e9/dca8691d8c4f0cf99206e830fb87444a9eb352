@@ -1,0 +1,9 @@
+ci-image-boot-test+1: Jenkins Job builder account
+Code-Review+2: Jan-Simon Moeller <jsmoeller@linuxfoundation.org>
+Verified+1: Jenkins Job builder account
+ci-image-build+1: Jenkins Job builder account
+Submitted-by: Jan-Simon Moeller <jsmoeller@linuxfoundation.org>
+Submitted-at: Sun, 05 Nov 2023 17:27:28 +0000
+Reviewed-on: https://gerrit.automotivelinux.org/gerrit/c/AGL/AGL-repo/+/29380
+Project: AGL/AGL-repo
+Branch: refs/heads/master
