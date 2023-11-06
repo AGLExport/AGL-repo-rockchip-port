@@ -16,6 +16,24 @@
       "message": "There is an old patch left that does no longer apply:\n\n ERROR: ti-sgx-ddk-km-1.17.4948957-r22x do_patch: Applying patch \u00270001-Add-support-for-AGL-toolchain.patch\u0027 on target directory \u0027/w/workspace/ci-platform-AGL-repo-verify-CIB-bbe/repoclone/output/tmp/work/bbe-agl-linux-gnueabi/ti-sgx-ddk-km/1.17.4948957-r22x/git\u0027\nCmdError(\u0027quilt --quiltrc /w/workspace/ci-platform-AGL-repo-verify-CIB-bbe/repoclone/output/tmp/work/bbe-agl-linux-gnueabi/ti-sgx-ddk-km/1.17.4948957-r22x/recipe-sysroot-native/etc/quiltrc push\u0027, 0, \"stdout: Applying patch 0001-Add-support-for-AGL-toolchain.patch\ncan\u0027t find file to patch at input line 21\nPerhaps you used the wrong -p or --strip option?\nThe text leading up to this was:\n|From 630046ad76e14d28bd6b0728632e4f43b0916c22 Mon Sep 17 00:00:00 2001\n|From: Paul Barker \u003cpaul.barker@sancloud.com\u003e\n|Date: Tue, 30 Nov 2021 16:48:58 +0000\n|Subject: [PATCH] Add support for AGL toolchain\n|\n|We can use the pre-existing config for arm-linux-gnueabihf, we just need\n|to make sure our toolchain is matched against this and not\n|arm-linux-gnueabi.\n|\n|Signed-off-by: Paul Barker \u003cpaul.barker@sancloud.com\u003e\n|[Updated for 1.17.4948957/k5.10]\n|Signed-off-by: Scott Murray \u003cscott.murrary@konsulko.com\u003e\n|---\n| eurasia_km/eurasiacon/build/linux2/config/compiler.mk | 2 +-\n| 1 file changed, 1 insertion(+), 1 deletion(-)\n|\n|diff --git a/eurasia_km/eurasiacon/build/linux2/config/compiler.mk b/eurasia_km/eurasiacon/build/linux2/config/compiler.mk\n|index 1b5f090..6719dc2 100644\n|--- a/eurasia_km/eurasiacon/build/linux2/config/compiler.mk\n|+++ b/eurasia_km/eurasiacon/build/linux2/config/compiler.mk\nNo file to patch.  Skipping patch.\n1 out of 1 hunk ignored\nPatch 0001-Add-support-for-AGL-toolchain.patch does not apply (enforce with -f)\nstderr: \")\nERROR: Logfile of failure stored in: /w/workspace/ci-platform-AGL-repo-verify-CIB-bbe/repoclone/output/tmp/work/bbe-agl-linux-gnueabi/ti-sgx-ddk-km/1.17.4948957-r22x/temp/log.do_patch.1642\nNOTE: recipe ti-sgx-ddk-km-1.17.4948957-r22x: task do_patch: Failed\nERROR: Task (/w/workspace/ci-platform-AGL-repo-verify-CIB-bbe/repoclone/bsp/meta-ti/meta-ti-bsp/recipes-bsp/powervr-drivers/ti-sgx-ddk-km_1.17.4948957.bb:do_patch) failed with exit code \u00271\u0027",
       "revId": "0b8e2dcbdd4bac2e42418b40988aae3428ac1dc0",
       "serverId": "2db66874-6d0c-4434-a3ad-56d904acc56e"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "40b3e9df_c89b3013",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 2622
+      },
+      "writtenOn": "2023-11-06T18:05:07Z",
+      "side": 1,
+      "message": "So, while working on moving DEPLOY_DIR per earlier discussion, I hit a race condition that is getting exposed by Poky\u0027s non-separate TMPDIRs...\n\nhttps://bugzilla.yoctoproject.org/show_bug.cgi?id\u003d15273",
+      "parentUuid": "9d68adcb_e7237e3d",
+      "revId": "0b8e2dcbdd4bac2e42418b40988aae3428ac1dc0",
+      "serverId": "2db66874-6d0c-4434-a3ad-56d904acc56e"
     }
   ]
 }
