@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "63645032_2fbf646f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 2891
+      },
+      "writtenOn": "2023-11-06T20:36:24Z",
+      "side": 1,
+      "message": "This does fix the problem _but_ Scott tells me that it might not be recommended. I think you better discuss that first :)",
+      "revId": "063af9a97dfbe1aac53265d6172c1aca5a23fafb",
+      "serverId": "2db66874-6d0c-4434-a3ad-56d904acc56e"
+    }
+  ]
+}
