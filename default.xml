@@ -67,6 +67,9 @@
   <!-- meta-tensorflow -->
   <project name="meta-tensorflow" path="external/meta-tensorflow" remote="yocto" revision="ec20e19319f9eb89ceadc04923cc5bc75e865692" upstream="kirkstone"/>
 
+  <!-- meta-aws -->
+  <project name="aws4embeddedlinux/meta-aws" path="external/meta-aws" remote="github" revision="a1aec268e6935a1bf7c7cae5166491551bdade5d" upstream="kirkstone"/>
+
   <!-- BSPs -->
 
   <!-- Renesas Gen3 specific things -->
