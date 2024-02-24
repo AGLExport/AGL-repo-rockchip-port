@@ -16,6 +16,24 @@
       "message": "This is part of BSP update for 4.0.16:\nhttps://gerrit.automotivelinux.org/gerrit/c/AGL/AGL-repo/+/29717",
       "revId": "9a2c7d68d3a4cac0f80895aae9013d90a1a29f7e",
       "serverId": "2db66874-6d0c-4434-a3ad-56d904acc56e"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e89d0ce0_0dbcf80e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 2622
+      },
+      "writtenOn": "2024-02-24T21:53:45Z",
+      "side": 1,
+      "message": "\u003e This is part of BSP update for 4.0.16:\n\u003e https://gerrit.automotivelinux.org/gerrit/c/AGL/AGL-repo/+/29717\n\nOops, the other way around...",
+      "parentUuid": "87e7ee33_19760e2c",
+      "revId": "9a2c7d68d3a4cac0f80895aae9013d90a1a29f7e",
+      "serverId": "2db66874-6d0c-4434-a3ad-56d904acc56e"
     }
   ]
 }
