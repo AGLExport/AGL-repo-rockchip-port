@@ -33,6 +33,29 @@
       "message": "Hmm,\n\nbb.parse.ParseError: ParseError at /w/workspace/ci-platform-AGL-repo-verify-CIB-qemux86-64/repoclone/external/meta-flutter/conf/layer.conf:28: unparsed line: \u0027addpylib ${LAYERDIR}/lib gn\u0027",
       "revId": "831661d23c069b0140efb944025fee0fe3cd37b0",
       "serverId": "2db66874-6d0c-4434-a3ad-56d904acc56e"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "45f0b983_49d4de52",
+        "filename": "default.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 61,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2024-03-21T12:27:48Z",
+      "side": 1,
+      "message": "this is a revision from the master branch and not from kirkstone branch.\n\ndid you mean  7ef619928229234e3ab6c4a37633ce9fd8fc503f  ??",
+      "range": {
+        "startLine": 61,
+        "startChar": 99,
+        "endLine": 61,
+        "endChar": 139
+      },
+      "revId": "831661d23c069b0140efb944025fee0fe3cd37b0",
+      "serverId": "2db66874-6d0c-4434-a3ad-56d904acc56e"
     }
   ]
 }
