@@ -82,4 +82,10 @@
   <project name="SanCloudLtd/meta-sancloud" path="bsp/meta-sancloud" remote="github" revision="kirkstone"/>
   <project name="EmbeddedAndroid/meta-rtlwifi" path="bsp/meta-rtlwifi" remote="github" revision="master"/>
 
+  <!-- meta-sifive -->
+  <project name="sifive/meta-sifive" path="bsp/meta-sifive" remote="github" revision="master"/>
+
+  <!-- meta-riscv for several risc boards -->
+  <project name="riscv/meta-riscv" path="bsp/meta-riscv" remote="github" revision="master"/>
+
 </manifest>
