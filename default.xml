@@ -20,10 +20,10 @@
 
   <!-- AGL things. -->
   <!-- <project name="AGL/meta-agl" path="meta-agl" /> -->
-  <project name="AGLExport/meta-agl" path="meta-agl" remote="github" revision="c62f994e40a81c18a935f5023e647c87b03d43b4" upstream="qullback-rockchip" />
+  <project name="AGLExport/meta-agl" path="meta-agl" remote="github" revision="c62f994e40a81c18a935f5023e647c87b03d43b4" upstream="quillback-rockchip" />
   <project name="AGL/meta-agl-demo" path="meta-agl-demo" />
   <!-- <project name="AGL/meta-agl-devel" path="meta-agl-devel" /> -->
-  <project name="AGLExport/meta-agl-devel" path="meta-agl-devel" remote="github" revision="9e9b1bba29797f84732deb1941b5af54d19ca309" upstream="qullback-rockchip" />
+  <project name="AGLExport/meta-agl-devel" path="meta-agl-devel" remote="github" revision="9e9b1bba29797f84732deb1941b5af54d19ca309" upstream="quillback-rockchip" />
 
   <project name="agl-ic-eg/meta-agl-demo-ces2024" path="meta-agl-demo-ces2024" remote="github" revision="cd831d7fe6fd0e3c3d3a0714f674e942ef41f675" upstream="rockchip-dev" />
 
