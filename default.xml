@@ -20,7 +20,7 @@
 
   <!-- AGL things. -->
   <!-- <project name="AGL/meta-agl" path="meta-agl" /> -->
-  <project name="AGLExport/meta-agl" path="meta-agl" remote="github" revision="c62f994e40a81c18a935f5023e647c87b03d43b4" upstream="quillback-rockchip" />
+  <project name="AGLExport/meta-agl" path="meta-agl" remote="github" revision="27d6c1af8c63323bf5a1685d1f8439e8f36391d3" upstream="quillback-rockchip" />
   <project name="AGL/meta-agl-demo" path="meta-agl-demo" />
   <!-- <project name="AGL/meta-agl-devel" path="meta-agl-devel" /> -->
   <project name="AGLExport/meta-agl-devel" path="meta-agl-devel" remote="github" revision="9e9b1bba29797f84732deb1941b5af54d19ca309" upstream="quillback-rockchip" />
@@ -96,7 +96,7 @@
   <project name="sifive/meta-sifive" path="bsp/meta-sifive" remote="github" revision="e49536e7dbec58e713dfba489edbdb2415b8e3c7" upstream="master"/>
 
   <!-- Rockchip BSP -->
-  <project name="JeffyCN/meta-rockchip" path="bsp/meta-rockchip" remote="github" revision="3746c076e9dc426c5b21c377bf8e9a557e3b8691" upstream="kirkstone"/>
-  <project name="agl-ic-eg/meta-rockchip-extra" path="bsp/meta-rockchip-extra" remote="github" revision="af759b9e870a0c332f9fdcc141a28bc7841a1fbe" upstream="main"/>
+  <project name="JeffyCN/meta-rockchip" path="bsp/meta-rockchip" remote="github" revision="d86e856bd583d4651a2240d54fc6c57e4eb1a882" upstream="kirkstone"/>
+  <project name="agl-ic-eg/meta-rockchip-extra" path="bsp/meta-rockchip-extra" remote="github" revision="606614f2d60080afb81871220e3e5940b96714ea" upstream="main"/>
 
 </manifest>
