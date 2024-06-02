@@ -23,9 +23,9 @@
   <project name="AGLExport/meta-agl" path="meta-agl" remote="github" revision="27d6c1af8c63323bf5a1685d1f8439e8f36391d3" upstream="quillback-rockchip" />
   <project name="AGL/meta-agl-demo" path="meta-agl-demo" />
   <!-- <project name="AGL/meta-agl-devel" path="meta-agl-devel" /> -->
-  <project name="AGLExport/meta-agl-devel" path="meta-agl-devel" remote="github" revision="9e9b1bba29797f84732deb1941b5af54d19ca309" upstream="quillback-rockchip" />
+  <project name="AGLExport/meta-agl-devel" path="meta-agl-devel" remote="github" revision="02fabf285bf1593481f794d34eec5a5a2d6c9f12" upstream="quillback-rockchip" />
 
-  <project name="agl-ic-eg/meta-agl-demo-ces2024" path="meta-agl-demo-ces2024" remote="github" revision="197bfe5cf53cc641808d8c3f308c2ab70948e576" upstream="rockchip-dev" />
+  <project name="agl-ic-eg/meta-agl-demo-ces2024" path="meta-agl-demo-ces2024" remote="github" revision="58b34a9aae0b556653fc71b696aaa1ecbc558794" upstream="qullback-rockchip" />
 
   <!-- ALL EXTERNAL REPOS BELOW USE A FIXED REVISION ! -->
 
@@ -97,6 +97,6 @@
 
   <!-- Rockchip BSP -->
   <project name="JeffyCN/meta-rockchip" path="bsp/meta-rockchip" remote="github" revision="d86e856bd583d4651a2240d54fc6c57e4eb1a882" upstream="kirkstone"/>
-  <project name="agl-ic-eg/meta-rockchip-extra" path="bsp/meta-rockchip-extra" remote="github" revision="606614f2d60080afb81871220e3e5940b96714ea" upstream="main"/>
+  <project name="agl-ic-eg/meta-rockchip-extra" path="bsp/meta-rockchip-extra" remote="github" revision="b0630830011583288b7ba78f4ab54ce96d45b2af" upstream="main"/>
 
 </manifest>
