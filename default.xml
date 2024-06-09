@@ -25,7 +25,7 @@
   <!-- <project name="AGL/meta-agl-devel" path="meta-agl-devel" /> -->
   <project name="AGLExport/meta-agl-devel" path="meta-agl-devel" remote="github" revision="02fabf285bf1593481f794d34eec5a5a2d6c9f12" upstream="quillback-rockchip" />
 
-  <project name="agl-ic-eg/meta-agl-demo-ces2024" path="meta-agl-demo-ces2024" remote="github" revision="58b34a9aae0b556653fc71b696aaa1ecbc558794" upstream="qullback-rockchip" />
+  <project name="agl-ic-eg/meta-agl-demo-ces2024" path="meta-agl-demo-ces2024" remote="github" revision="d07b08f2db9dcaff81b2b7d6da76ff95f27888c4" upstream="qullback-rockchip" />
 
   <!-- ALL EXTERNAL REPOS BELOW USE A FIXED REVISION ! -->
 
